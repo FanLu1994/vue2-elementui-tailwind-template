@@ -1,6 +1,18 @@
-# x3_regression_front
+# vue2+elementui+tailwind1.9.5+axios的极简模板
 
-> A Vue.js project
+配置教程：[Vue 2 安裝 Tailwind CSS 1 | 點燈坊 (fpjs.fun)](https://fpjs.fun/tailwind/general/vue2-tailwind1/)
+
+注意tailwindcss版本：  npm install tailwindcss@1.9.5 --save
+
+根目录下面的.postcssrc.js文件：
+
+```js
+module.exports = {
+  "plugins":[
+    require('tailwindcss')
+  ]
+}
+```
 
 ## Build Setup
 
