@@ -17,7 +17,7 @@ Vue.use(VueRouter)
 // 给路由定义前置的全局守卫
 router.beforeEach((to, from, next) => {
   // console.log("从"+from.path+'跳转到：'+to.path)
-  document.title = `${to.meta.title} | X3QA`;
+  document.title = `${to.meta.title} | 主页`;
   // next()
   // console.log(token)
   next()
