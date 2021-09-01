@@ -1,8 +1,8 @@
 {
-  "name": "x3_regression_front",
+  "name": "vue-tailwind-template",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "CodeForWuyu <1066580119@qq.com>",
+  "author": "Fanlu1994 <1066580119@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
